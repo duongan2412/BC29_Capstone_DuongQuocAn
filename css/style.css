@@ -90,12 +90,12 @@
 }
 
 .navbar-nav .nav-item.active .nav-link {
-    color: #ff6e65;
+    color: #ff6e65 !important;
 }
 
 .navbar-nav .nav-item .nav-link:hover,
 .nav__search .serach__content .search__btn a:hover {
-    color: #ff6e65;
+    color: #ff6e65 !important;
 }
 
 .nav__search .serach__content .search__input input {
